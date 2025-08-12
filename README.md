@@ -47,9 +47,7 @@
 
 ## 📌 Projetos em Destaque
 - 🎯 **[Cantina do Senai](link)** — Esse é um projeto de um sistema completo da cantina do Senai, com funções de **Venda**, **Estoque** e **Visualização** com uso total de C# na criação dele.
-- 📦 **[Site da Barbearia](link)** — Pequena descrição sobre o projeto
 
----
 
 ## 📊 Estatísticas do GitHub
 
