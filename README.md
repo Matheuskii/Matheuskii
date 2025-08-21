@@ -51,8 +51,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=feentz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldhied&layout=compact&theme=tokyonight)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuskii&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuskii&layout=compact&theme=tokyonight)
 
 ---
 
