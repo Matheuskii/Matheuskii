@@ -46,7 +46,20 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🎯 **[Cantina do Senai](link)** — Esse é um projeto de um sistema completo da cantina do Senai, com funções de **Venda**, **Estoque** e **Visualização** com uso total de C# na criação dele.
+- ### 🍽️ [Cantina-Official](https://github.com/Matheuskii/cantina-Official)
+Sistema de **gestão de cantina escolar** feito em **C# (Windows Forms)**.  
+Inclui cadastro de produtos, carrinho, pedidos e formas de pagamento.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- ### 📚 [APIAlunos](https://github.com/Matheuskii/APIAlunos)
+API simples desenvolvida em **Node.js + Express** para gerenciar alunos.  
+Permite criar, listar e buscar registros com validação de dados (CPF, CEP, UF, etc).
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ## 📊 Estatísticas do GitHub
