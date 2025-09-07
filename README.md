@@ -64,7 +64,7 @@ Permite criar, listar e buscar registros com validação de dados (CPF, CEP, UF,
 
 ## 📊 Estatísticas do GitHub
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuskii&show_icons=true&theme=tokyonight)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuskii&show_icons=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuskii&layout=compact&theme=tokyonight)
 
 ---
