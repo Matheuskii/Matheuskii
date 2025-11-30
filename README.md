@@ -1,18 +1,8 @@
 
 # 👋 Olá, eu sou o Matheus
 
-💻 Desenvolvedor em formação | 🎓 Estudante de Desenvolvimento de Sistemas no SENAI  
-🚀 Apaixonado por tecnologia, programação e resolução de problemas.  
-
----
-
-## 🚀 Sobre mim
-- 🌱 Atualmente aprendendo: **Banco de Dados, JavaScript Backend, HTML5, CSS e AWS**
-- 🎯 Objetivo: Criar soluções inovadoras e eficientes
-- 📚 Estudando para o **ENEM** e para evoluir na área de TI
-- 💼 Buscando oportunidades para aplicar e aprimorar minhas habilidades
-
----
+Estudante de Desenvolvimento de Sistemas no SENAI  
+3° Ano do ensino Médio
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -41,7 +31,6 @@
 
 **Outros**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -61,17 +50,7 @@ Permite criar, listar e buscar registros com validação de dados (CPF, CEP, UF,
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-## 📊 Estatísticas do GitHub
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheuskii&show_icons=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuskii&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Contato
-📧 Email: alvesdemelomatheus4@gmail.com  
-[💼 Linkedin](https://www.linkedin.com/in/matheus-alves-de-melo-26a96135b/)  
+26a96135b/)  
 
 
 ---
