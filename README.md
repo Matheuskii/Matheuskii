@@ -14,7 +14,7 @@ Focado em criar soluções web funcionais e bem estruturadas.
 * **Tech Stack:** Node.js, Express, MySQL, JWT, Nodemailer.
 * **Diferencial:** Arquitetura MVC, Dark Mode e Segurança (JWT).
 
-#### ⚛️ [Gerenciador de Times (React)](https://Matheuskii/Gerenciador de Times (React))
+#### ⚛️ [Gerenciador de Times (React)](https://Matheuskii/Gerenciador-de-Times-React)
 > Interface interativa desenvolvida para consolidar os fundamentos do React.
 
 * **O que faz:** Cadastro dinâmico de colaboradores com validação de formulários e organização visual por times/cores.
