@@ -1,57 +1,43 @@
-# Olá, eu sou o Matheus 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=240&section=header&text=Matheus&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Backend%20developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Matheus banner"/>
+</div>
 
-Estudante do **3º Semestre de Desenvolvimento de Sistemas no SENAI** e cursando o 3º Ano do Ensino Médio.  
-Sou apaixonado por tecnologia e atuo com muito mais foco no **Back-end**, buscando sempre criar soluções robustas, seguras e bem estruturadas.
+<div align="center">
 
-🌱 Atualmente focando em aprofundar meus estudos em **Java, Spring Boot e React**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-de-melo-26a96135b) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alvesdemelomatheus4@gmail.com)
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-a855f7?style=flat-square) ![Osasco](https://img.shields.io/badge/Osasco-333?style=flat-square)
 
----
+</div>
+
+### 👨‍💻 Sobre mim
+
+Desenvolvedor focado em backend e estudante de Desenvolvimento de Sistemas. Apaixonado por criar arquiteturas eficientes e otimizar a performance de cada linha de código.
+
+- ⌗ **Experiência** · Desenvolvo projetos Full-Stack e Mobile (Node.js, Flutter, Firebase). Possuo também experiência prática em suporte de TI (SENAI): montagem de hardware, redes e deploy de sistemas operacionais.
+- ◎ **Educação** · Técnico em Desenvolvimento de Sistemas (SENAI). Preparando ingresso no bacharelado em Engenharia de Software.
+- ⟳ **Estudando** · Ecossistema Java (Spring Boot, Annotation Processors) e Flutter.
+- ✦ **Curiosidade** · Divido meu tempo entre refatorar código, tunar meu notebook para rodar Warzone no talo, e puxar ferro na busca pela hipertrofia. 
 
 ### 🏆 Projetos em Destaque
 
-#### 💰 [Costs - Gerenciamento de Projetos](https://github.com/Matheuskii/Costs-Gerenciamento-de-projetos)
-> Sistema voltado para o planejamento e gerenciamento de custos de projetos, permitindo o controle de orçamento e serviços.
-* **Foco:** Prática de componentes, rotas e gerenciamento de estado.
-* **Tech Stack principal:** React, JavaScript.
+- **[Java Annotation Processor](https://github.com/Matheuskii/annotation-process)** — Ferramenta que interceta a compilação Java para gerar código automaticamente. Utiliza anotação customizada `@Builder`, JavaPoet e Maven para eliminar boilerplate.
+- **[BiblioTec - Gestão de Bibliotecas](https://github.com/Matheuskii/Bibliotec)** — Sistema backend completo para bibliotecas, com rotas no servidor, gestão detalhada de livros e integração com base de dados relacional.
+- **[Nhac - App de Delivery](https://github.com/feentzs/Nhac)** — Aplicativo mobile com gestão de endereços, lógica de carrinho de compras e UI dinâmica. Integrado com autenticação e base de dados do Firebase.
 
-#### 📚 [BiblioTec](https://github.com/Matheuskii/Bibliotec-SN.git)
-> Um sistema completo para gestão de bibliotecas escolares, focado na experiência do aluno e controle administrativo.
-* **O que faz:** Permite reservas online, catálogo interativo, avaliações e gestão de acervo.
-* **Tech Stack:** Node.js, Express, MySQL, JWT, Nodemailer.
-* **Diferencial:** Arquitetura MVC, Dark Mode e Segurança (JWT).
+### 🛠️ Tecnologias & Idiomas
 
-#### ⚛️ [Gerenciador de Times](https://github.com/Matheuskii/Gerenciador-de-Times-React)
-> Interface interativa desenvolvida para consolidar os fundamentos do React.
-* **O que faz:** Cadastro dinâmico de colaboradores com validação de formulários e organização visual por times/cores.
-* **Tech Stack:** React, Hooks (useState), Componentização e CSS.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Back-end & Linguagens** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-
-**Banco de Dados & Infraestrutura/DevOps** ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-
-**Front-end** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
----
-
----
-
-### 📊 Estatísticas no github
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,js,nodejs,spring,postgres,mysql,firebase&theme=dark" alt="Backend & DBs" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=flutter,react,html,css,aws,linux,git,docker,vscode&theme=dark" alt="Frontend & Tools" />
+</div>
 <br>
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuskii&theme=gotham&hide_border=true" height="150" alt="GitHub Streak" />
+
+- 🌐 **Português** (Nativo) | 🌐 **Inglês** (Intermediário)
+
+---
+
+<div align="center">
+  <sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/Matheuskii">github.com/Matheuskii</a></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=120&section=footer" width="100%" alt="Footer wave"/>
 </div>
