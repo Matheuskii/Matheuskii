@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=240&section=header&text=Matheus%20Alves&fontSize=58&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Desenvolvedor%20Backend%20%7C%20Java%20%26%20Spring%20Boot&descSize=19&descAlignY=58&descColor=ffffffaa&animation=fadeIn" width="100%" alt="Banner de Matheus Alves"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:ec4899&amp;height=240&amp;section=header&amp;text=Matheus%20Alves&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=38&amp;fontStyle=bold&amp;desc=Desenvolvedor%20Backend%20%7C%20Java%20%26%20Spring%20Boot&amp;descSize=19&amp;descAlignY=58&amp;descColor=ffffffaa&amp;animation=fadeIn" width="100%" alt="Banner de Matheus Alves"/>
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-de-melo-26a96135b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alvesdemelomatheus4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/matheus-alves-de-melo-26a96135b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white)](mailto:alvesdemelomatheus4@gmail.com)
 ![Open to work](https://img.shields.io/badge/Open%20to%20work-a855f7?style=flat-square)
 ![Osasco](https://img.shields.io/badge/Osasco%2C%20SP-333?style=flat-square)
 
@@ -63,9 +63,9 @@ Modelo de Deep Learning para classificação de imagens de roupas, com avaliaç�
 ## Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,js,flutter,dart,python&theme=dark" alt="Linguagens e frameworks"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,js,flutter,dart,python&amp;theme=dark" alt="Linguagens e frameworks"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,aws,linux,git,github&theme=dark" alt="Bancos de dados e ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,aws,linux,git,github&amp;theme=dark" alt="Bancos de dados e ferramentas"/>
 </div>
 
 ## Contato
@@ -78,5 +78,5 @@ Modelo de Deep Learning para classificação de imagens de roupas, com avaliaç�
 
 <div align="center">
   <sub>Construindo projetos reais enquanto evoluo como desenvolvedor.</sub>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=120&section=footer" width="100%" alt="Rodapé"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:ec4899&amp;height=120&amp;section=footer" width="100%" alt="Rodapé"/>
 </div>
