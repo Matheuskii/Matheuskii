@@ -1,43 +1,82 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=240&section=header&text=Matheus&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Backend%20developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Matheus banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=240&section=header&text=Matheus%20Alves&fontSize=58&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Desenvolvedor%20Backend%20%7C%20Java%20%26%20Spring%20Boot&descSize=19&descAlignY=58&descColor=ffffffaa&animation=fadeIn" width="100%" alt="Banner de Matheus Alves"/>
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-de-melo-26a96135b) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alvesdemelomatheus4@gmail.com)
-![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-a855f7?style=flat-square) ![Osasco](https://img.shields.io/badge/Osasco-333?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-de-melo-26a96135b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alvesdemelomatheus4@gmail.com)
+![Open to work](https://img.shields.io/badge/Open%20to%20work-a855f7?style=flat-square)
+![Osasco](https://img.shields.io/badge/Osasco%2C%20SP-333?style=flat-square)
 
 </div>
 
-### 👨‍💻 Sobre mim
+## Sobre mim
 
-Desenvolvedor focado em backend e estudante de Desenvolvimento de Sistemas. Apaixonado por criar arquiteturas eficientes e otimizar a performance de cada linha de código.
+Sou estudante do curso técnico de **Desenvolvimento de Sistemas no SENAI** e desenvolvedor com foco em **backend Java**. Gosto de transformar regras de negócio em APIs organizadas, seguras e testáveis, sem deixar de explorar desenvolvimento mobile, web e banco de dados.
 
-- ⌗ **Experiência** · Desenvolvo projetos Full-Stack e Mobile (Node.js, Flutter, Firebase). Possuo também experiência prática em suporte de TI (SENAI): montagem de hardware, redes e deploy de sistemas operacionais.
-- ◎ **Educação** · Técnico em Desenvolvimento de Sistemas (SENAI). Preparando ingresso no bacharelado em Engenharia de Software.
-- ⟳ **Estudando** · Ecossistema Java (Spring Boot, Annotation Processors) e Flutter.
-- ✦ **Curiosidade** · Divido meu tempo entre refatorar código, tunar meu notebook para rodar Warzone no talo, e puxar ferro na busca pela hipertrofia. 
+- Atualmente desenvolvendo o **Nhac**, uma plataforma completa de delivery criada como TCC.
+- Estudando **Java, Spring Boot, arquitetura de software e Flutter**.
+- Experiência prática com APIs REST, autenticação, bancos relacionais, testes e Git.
+- Buscando minha primeira oportunidade profissional em desenvolvimento de software.
 
-### 🏆 Projetos em Destaque
+## Projetos em destaque
 
-- **[Java Annotation Processor](https://github.com/Matheuskii/annotation-process)** — Ferramenta que interceta a compilação Java para gerar código automaticamente. Utiliza anotação customizada `@Builder`, JavaPoet e Maven para eliminar boilerplate.
-- **[BiblioTec - Gestão de Bibliotecas](https://github.com/Matheuskii/Bibliotec)** — Sistema backend completo para bibliotecas, com rotas no servidor, gestão detalhada de livros e integração com base de dados relacional.
-- **[Nhac - App de Delivery](https://github.com/feentzs/Nhac)** — Aplicativo mobile com gestão de endereços, lógica de carrinho de compras e UI dinâmica. Integrado com autenticação e base de dados do Firebase.
+### [Nhac — Plataforma completa de delivery](https://github.com/NhacDelivery)
 
-### 🛠️ Tecnologias & Idiomas
+Ecossistema de delivery composto por aplicativo do cliente, painel do lojista, aplicativo do entregador e backend central. O projeto inclui pedidos, pagamentos, cupons, estoque, rastreamento, chat, autenticação e fluxos específicos para cada perfil.
+
+**Tecnologias:** Java 25, Spring Boot 4, Flutter, Dart, MariaDB, JPA, Flyway, Firebase, Docker e GitHub Actions.
+
+[Backend](https://github.com/NhacDelivery/backend-nhac) · [App do cliente](https://github.com/NhacDelivery/Nhac) · [Painel do lojista](https://github.com/NhacDelivery/Nhac-lojista-web) · [App do entregador](https://github.com/NhacDelivery/Nhac-Motoboy)
+
+### [Proposal Management API](https://github.com/Matheuskii/proposal-management)
+
+API REST para gerenciamento de propostas entre influenciadores e marcas. Aplica arquitetura inspirada em Clean/Hexagonal, autenticação por sessão, RBAC e os padrões Strategy e Factory para definir a visibilidade das propostas.
+
+**Tecnologias:** Java 21, Spring Boot 3, Spring Security, Spring Data JPA, MariaDB e Maven.
+
+### [Java Annotation Processor](https://github.com/Matheuskii/annotation-processor)
+
+Processador de anotações que gera classes Builder durante a compilação, reduzindo código repetitivo. O projeto é organizado em módulos separados para a anotação, o processador e a aplicação de exemplo.
+
+**Tecnologias:** Java 21, Maven, JavaPoet e Google AutoService.
+
+### [BiblioTec-SN](https://github.com/Matheuskii/Bibliotec-SN)
+
+Sistema web de gerenciamento de biblioteca com catálogo, reservas, empréstimos, favoritos, avaliações, recuperação de senha e painel administrativo.
+
+**Tecnologias:** Node.js, Express, JavaScript, HTML, CSS, MariaDB, JWT e Nodemailer.
+
+### [Cantina-Official](https://github.com/Matheuskii/Cantina-Official)
+
+Sistema desktop que organiza o fluxo completo de uma cantina, conectando caixa, cozinha, balcão e tela de chamada, com controle do status dos pedidos e diferentes formas de pagamento.
+
+**Tecnologias:** C#, .NET e Windows Forms.
+
+### [Classificador Fashion MNIST](https://github.com/Matheuskii/Classificador-Fashion-MNIST)
+
+Modelo de Deep Learning para classificação de imagens de roupas, com avaliação por acurácia, matriz de confusão e métricas de precisão, recall e F1-score.
+
+**Tecnologias:** Python, TensorFlow, Keras, NumPy, Matplotlib e Scikit-learn.
+
+## Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,js,nodejs,spring,postgres,mysql,firebase&theme=dark" alt="Backend & DBs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,js,flutter,dart,python&theme=dark" alt="Linguagens e frameworks"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=flutter,react,html,css,aws,linux,git,docker,vscode&theme=dark" alt="Frontend & Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,aws,linux,git,github&theme=dark" alt="Bancos de dados e ferramentas"/>
 </div>
-<br>
 
-- 🌐 **Português** (Nativo) | 🌐 **Inglês** (Intermediário)
+## Contato
+
+- **LinkedIn:** [Matheus Alves de Melo](https://www.linkedin.com/in/matheus-alves-de-melo-26a96135b)
+- **E-mail:** [alvesdemelomatheus4@gmail.com](mailto:alvesdemelomatheus4@gmail.com)
+- **Localização:** Osasco, São Paulo
 
 ---
 
 <div align="center">
-  <sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/Matheuskii">github.com/Matheuskii</a></sub>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=120&section=footer" width="100%" alt="Footer wave"/>
+  <sub>Construindo projetos reais enquanto evoluo como desenvolvedor.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=120&section=footer" width="100%" alt="Rodapé"/>
 </div>
